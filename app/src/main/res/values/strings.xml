@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="Verfication">MOBILE VERIFACATION</string>
+    <string name="Verfication_code">Enter your mobile number to revieve a verifacation code</string>
+    <string name="Sign__UP">SIGN UP </string>
+    <string name="New"> NEW FLIGHT </string>
+    <string name="Package"> NEW PACKAGE </string>
+    <string name="Add_flight"> Add details about what your flight </string>
+    <string-array name="Place">
+        <item>Ger</item>
+        <item>Fr</item>
+        <item>Usa</item>
+    </string-array>
+    <string-array name="Langue">
+        <item>Ger</item>
+        <item>Fr</item>
+        <item>Esp</item>
+        <item>Eng</item>
+    </string-array>
+    <string name="despri">Add small description here </string>
+    <string name="Pass">Reset password </string>
+    <string name="titre"> Send and receive anything from anywhere</string>
+    <string name="Reset"> Enter your email below, we will sebnd you a link</string>
+
+    <string name="create_account">Create account</string>
+    <string name="Code">Enter your code</string>
+    <string-array name="voy_tous">
+        <item></item>
+
+    </string-array>
+    <string-array name="poids">
+        <item></item>
+
+    </string-array>
+    <string-array name="reference">
+        <item></item>
+
+    </string-array>
+    <string-array name="prix">
+        <item></item>
+
+    </string-array>
+    <string-array name="date">
+        <item></item>
+
+    </string-array>
+    <string-array name="direction">
+        <item></item>
+
+    </string-array>
+
+    <string name="continue_with_google">Continue with google</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
